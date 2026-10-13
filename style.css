@@ -1,0 +1,36 @@
+body {
+    background-color: #0860B9;
+    background-image: url(https://t3.ftcdn.net/jpg/09/26/69/04/360_F_926690484_av0xyDEUluJzf2yLeuzTPV3D1WrA04Gc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #333333;
+}
+
+.container {
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.title {
+    background-color: white;
+    text-align: center;
+    padding: 8px;
+    border-radius: 12px;
+    box-shadow: 3px 4px 6px black;
+}
+
+.card {
+    background-color: white;
+    padding: 10px;
+    height: 150px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 6px black;
+}
+
+.footer {
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
